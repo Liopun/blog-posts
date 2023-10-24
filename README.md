@@ -1,5 +1,5 @@
 # Blog-posts-assessment
-Backedn challenge for Hatchways
+Backend challenge for Hatchways
 
 ## Features
 

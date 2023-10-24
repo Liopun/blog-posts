@@ -1,11 +1,9 @@
-# blog-posts-assessment
-
-![Description](https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/instructions/b-3/Back-end%20Assessment%20-%20Blog%20Posts-A9EKAPTAF5B6DDJ12W3K.pdf)
-
+# Blog-posts-assessment
+Backedn challenge for Hatchways
 
 ## Features
 
-- An/api/posts route that handles the following query parameters:
+- An /api/posts route that handles the following query parameters:
     - tags (mandatory) : any number of comma-separated strings
     - sortBy (optional) : one of “id”, “reads”, “likes”, “popularity” defaults to "id"
     - direction (optional) : one of “asc”, “desc”, defaults to “asc"
